@@ -2,7 +2,6 @@
 <h3 align="center">Passionate about learning web development</h3>
 <img align="right" alt="coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tajadacoley&label=Profile%20views&color=0e75b6&style=flat" alt="tajadacoley" /> </p>
 
 - 👩🏾‍💻 Currently selftaught
 
