@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **HTML, CSS & JAVASCRIPT**
 
 - 📈📉 Fun fact: Currently a funded day trader
 
