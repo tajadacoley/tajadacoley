@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT & PYTHON**
 
-- 📈📉 Fun fact: Currently a funded day trader
-
 
 <p align="left">
   
